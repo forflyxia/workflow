@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="workflow-api" />
+        <module name="workflow-client" />
+        <module name="workflow-contract" />
+        <module name="workflow-host" />
+        <module name="workflow-infrustructure" />
+        <module name="workflow-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="workflow-api" target="1.8" />
+      <module name="workflow-client" target="1.8" />
+      <module name="workflow-contract" target="1.8" />
+      <module name="workflow-host" target="1.8" />
+      <module name="workflow-infrustructure" target="1.8" />
+      <module name="workflow-parent" target="1.8" />
+      <module name="workflow-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

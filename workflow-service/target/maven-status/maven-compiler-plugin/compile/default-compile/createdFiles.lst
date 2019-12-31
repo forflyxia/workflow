@@ -1,0 +1,4 @@
+cn\tcc\workflow\service\ServiceTaskImpl.class
+cn\tcc\workflow\service\process\WFProcessService.class
+cn\tcc\workflow\service\BaseService.class
+cn\tcc\workflow\service\process\WFProcessInstanceService.class

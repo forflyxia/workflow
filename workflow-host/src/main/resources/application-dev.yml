@@ -1,0 +1,18 @@
+#workflow
+spring.datasource.workflow.driverClassName=com.mysql.jdbc.Driver
+spring.datasource.workflow.url=jdbc:mysql://xxx:3306/workflow?characterEncoding=utf8&useSSL=false&allowMultiQueries=true
+spring.datasource.workflow.username=silkconnectdev
+spring.datasource.workflow.password=silkconnectdevpw
+spring.datasource.workflow.initialSize=5
+spring.datasource.workflow.minIdle=5
+spring.datasource.workflow.maxActive=30
+spring.datasource.workflow.maxWait=60000
+spring.datasource.workflow.timeBetweenEvictionRunsMillis=60000
+spring.datasource.workflow.minEvictableIdleTimeMillis=300000
+spring.datasource.workflow.validationQuery=SELECT 1 FROM DUAL
+spring.datasource.workflow.testWhileIdle=true
+spring.datasource.workflow.testOnBorrow=false
+spring.datasource.workflow.testOnReturn=false
+spring.datasource.workflow.poolPreparedStatements=true
+spring.datasource.workflow.maxPoolPreparedStatementPerConnectionSize=20
+spring.datasource.workflow.filters=stat

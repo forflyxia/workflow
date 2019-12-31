@@ -1,0 +1,9 @@
+cn\tcc\workflow\ServiceClient.class
+cn\tcc\workflow\Bootstrap.class
+cn\tcc\workflow\client\PostRestClient.class
+cn\tcc\workflow\client\RestClient.class
+cn\tcc\workflow\client\GetRestClient.class
+cn\tcc\workflow\client\DeleteRestClient.class
+cn\tcc\workflow\ClientEnvironment.class
+cn\tcc\workflow\ServiceClient$1.class
+cn\tcc\workflow\ClientConfig.class

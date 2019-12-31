@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.tcc.foundation:foundation-core-lite:0.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/tcc/foundation/foundation-core-lite/0.0.2-SNAPSHOT/foundation-core-lite-0.0.2-20190822.062347-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/tcc/foundation/foundation-core-lite/0.0.2-SNAPSHOT/foundation-core-lite-0.0.2-20190822.062347-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/tcc/foundation/foundation-core-lite/0.0.2-SNAPSHOT/foundation-core-lite-0.0.2-20190822.062347-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

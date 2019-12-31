@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.activiti:editor-image-generator:6.0.2.TC-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/activiti/editor-image-generator/6.0.2.TC-SNAPSHOT/editor-image-generator-6.0.2.TC-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/activiti/editor-image-generator/6.0.2.TC-SNAPSHOT/editor-image-generator-6.0.2.TC-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/activiti/editor-image-generator/6.0.2.TC-SNAPSHOT/editor-image-generator-6.0.2.TC-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
